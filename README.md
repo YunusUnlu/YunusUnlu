@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=4169E1&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Yunus+%C3%9Cnl%C3%BC+%F0%9F%91%8B;Electrical+%26+Electronics+Engineer;Full-Stack+Software+Developer;Bridging+Hardware+and+Software!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=4169E1&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Yunus+%C3%9Cnl%C3%BC+%F0%9F%91%8B;Electrical+%26+Electronics+Engineer;Indie+Maker+%26+Continuous+Learner;Building+Personal+Projects+with+AI!" alt="Typing SVG" />
 </div>
 
 
@@ -12,12 +12,13 @@
 
 Hi there! I am an **Electrical and Electronics Engineer** with over two years of hands-on experience in PCB design, embedded systems, and production management. Currently based in Bremen, Germany, my qualifications are officially recognized by the Ingenieurkammer Bremen.
 
-I thrive at the intersection of hardware and software. Recently, I've been expanding my technical toolkit by diving into **Artificial Intelligence**, **Web Development (React/Next.js)**, and **Software Engineering**. I enjoy building end-to-end solutions, whether it's an industrial sensor node with STM32 or a full-stack Next.js web application.
+I'm also an **Indie Maker** and a passionate learner. While I don't claim professional expertise in commercial software development, I love exploring the digital space by building my own personal projects. I am currently bringing my ideas to life by teaching myself **Web Technologies (React/Next.js)** and exploring **Artificial Intelligence**.
 
 - 🌍 Location: Bremen, Germany
-- 💻 Tech Stack Focus: Hardware Design (Altium), Embedded (C/C++, STM32), Full-stack Web (Next.js, TypeScript)
+- 💻 Hardware Stack: PCB Design (Altium), Embedded (C/C++, STM32)
+- 🚀 Learning & Building: Next.js, AI-assisted tools, and Indie Projects
 - 🗣️ Languages: Turkish (Native), English (Fluent), German (B1/B2)
-- 🌱 Currently exploring: Building AI-assisted web platforms and IoT solutions under the EU Blue Card scope.
+- 🌱 Currently exploring: Learning new skills, building personal projects, and exploring the tech world.
 
 ---
 
@@ -42,5 +43,5 @@ I thrive at the intersection of hardware and software. Recently, I've been expan
 
 ---
 <p align="center">
-  <i>"Combining engineering rigor with modern digital development."</i>
+  <i>"An engineer by day, an indie maker and continuous learner by night."</i>
 </p>
