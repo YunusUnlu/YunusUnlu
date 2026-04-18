@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=I'm%20Yunus%20%C3%9Cnl%C3%BC&descAlignY=61&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=4169E1&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Yunus+%C3%9Cnl%C3%BC+%F0%9F%91%8B;Electrical+%26+Electronics+Engineer;Full-Stack+Software+Developer;Bridging+Hardware+and+Software!" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Electrical & Electronics Engineer | Software Developer</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yunusunlu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
