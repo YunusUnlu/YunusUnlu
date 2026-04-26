@@ -32,7 +32,8 @@ I'm also an **Indie Maker** and a passionate learner. While I don't claim profes
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YunusUnlu&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Yunus's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunusUnlu&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,tailwind,firebase,git,linux,vscode,figma&theme=dark" alt="Tech Stack" />
 </div>
 
 ### 🔥 Daily Usage & Commit Streak
