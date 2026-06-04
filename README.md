@@ -22,6 +22,12 @@ I'm also an **Indie Maker** and a passionate learner. While I don't claim profes
 
 ---
 
+### 📂 Featured Projects
+
+- 🏪 **[Kaufland Branch Management Dashboard](https://github.com/YunusUnlu/kaufland-dashboard)**: A role-based internal management dashboard prototype for Kaufland retail branches across Germany. Built with vanilla HTML, CSS, and JavaScript.
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
